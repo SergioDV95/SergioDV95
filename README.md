@@ -7,15 +7,15 @@
 ## ¿Qué puedo hacer?
 
 ### Desarrollo de front-end: 
-`HTML`, `CSS`, `JavaScript`, `React`.
+`HTML` `CSS` `JavaScript` `React`
 ### Desarrollo de back-end: 
-`Node.js`, `Express`, `Python`, `PHP`.
+`Node.js` `Express` `Python` `PHP`
 ### Bases de datos: 
-`MySQL`, `MongoDB`.
+`MySQL` `MongoDB`
 ### Control de versiones: 
-`Git`, `GitHub`.
+`Git` `GitHub`
 ### Metodologías ágiles: 
-Scrum.
+Scrum
 
 ## ¿Qué me apasiona?
 
