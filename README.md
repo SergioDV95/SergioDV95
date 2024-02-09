@@ -5,3 +5,7 @@
 [![SergioDV95's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioDV95&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDV95&langs_count=10&layout=compact&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
+
+| HTML | CSS | JS | 
+|---|---|---|
+| ![HTML](https://www.freepik.com/icon/html-5_5968267#fromView=search&term=HTML&track=ais&page=1&position=0&uuid=b7876cb3-5936-483c-a574-48a14ffabcaa) | ![CSS](https://www.freepik.com/icon/css-3_5968242#fromView=resource_detail&position=19) | ![JS](https://www.freepik.com/icon/js_5968292#fromView=resource_detail&position=15) |
