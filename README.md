@@ -6,9 +6,31 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDV95&langs_count=10&layout=compact&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
-| HTML | CSS | JavaSript | SASS | Python | PHP | TypeScript |
-|---|---|---|---|---|---|---|
-| <img src="html-5_5968267.png" alt="HTML" width="100" /> | ![CSS](css-3_5968242.png) class="medida" | ![JavaSript](js_5968292.png) class="medida" | ![SASS](sass_5968358.png) class="medida" | ![Python](python_5968350.png) class="medida" | ![PHP](php_5968332.png) class="medida" | ![TypeScript](typescript_5968381.png) class="medida" |
+<table>
+  <tr>
+    <td>
+      <img src="html-5_5968267.png" alt="HTML" width="100" />
+    </td>
+    <td>
+      <img src="css-3_5968242.png" alt="CSS" width="100" />
+    </td>
+    <td>
+      <img src="js_5968292.png" alt="JavaScript" width="100" />
+    </td>
+    <td>
+      <img src="sass_5968358.png" alt="SASS" width="100" />
+    </td>
+    <td>
+      <img src="python_5968350.png" alt="Python" width="100" />
+    </td>
+    <td>
+      <img src="php_5968332.png" alt="PHP" width="100" />
+    </td>
+    <td>
+      <img src="typescript_5968381.png" alt="TypeScript" width="100" />
+    </td>
+  </tr>
+</table>
 
 | JAVA | REACT | MongoDB | Nodejs | Express | WordPress | Mongoose |
 |---|---|---|---|---|---|---|
