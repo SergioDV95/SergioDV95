@@ -6,15 +6,15 @@
 
 ## ¿Qué puedo hacer?
 
-# Desarrollo de front-end: 
+### Desarrollo de front-end: 
 HTML, CSS, JavaScript, React, Vue.js, Bootstrap, Materialize.
-# Desarrollo de back-end: 
+### Desarrollo de back-end: 
 Node.js, Express, Django, Python, PHP, Laravel.
-# Bases de datos: 
+### Bases de datos: 
 MySQL, PostgreSQL, MongoDB.
-# Control de versiones: 
+### Control de versiones: 
 Git, GitHub.
-# Metodologías ágiles: 
+### Metodologías ágiles: 
 Scrum.
 
 ## ¿Qué me apasiona?
