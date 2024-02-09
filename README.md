@@ -8,4 +8,4 @@
 
 | HTML | CSS | JS | 
 |---|---|---|
-| ![HTML](html-5_5968267.png)](width=100) | ![CSS](css-3_5968242.png)](width=100) | ![JS](js_5968292.png)](width=100) |
+| ![HTML](html-5_5968267.png) {width="50px"} | ![CSS](css-3_5968242.png)](width=100) | ![JS](js_5968292.png)](width=100) |
