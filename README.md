@@ -4,7 +4,7 @@
 ## ¿Qué puedo hacer?
 
 ### Desarrollo de front-end: 
-`HTML` `CSS` `JavaScript` `React`
+`HTML` `CSS` `JavaScript` `React` `TypeScript`
 ### Desarrollo de back-end: 
 `Node.js` `Express` `Python` `PHP`
 ### Bases de datos: 
