@@ -8,6 +8,15 @@
 
 <table>
   <tr>
+    <th>HTML</th>
+    <th>CSS</th>
+    <th>JavaScript</th>
+    <th>SASS</th>
+    <th>Python</th>
+    <th>PHP</th>
+    <th>TypeScript</th>
+  </tr>
+  <tr>
     <td>
       <img src="html-5_5968267.png" alt="HTML" width="100" />
     </td>
@@ -29,6 +38,15 @@
     <td>
       <img src="typescript_5968381.png" alt="TypeScript" width="100" />
     </td>
+  </tr>
+  <tr>
+    <th>JAVA</th>
+    <th>React</th>
+    <th>MongoDB</th>
+    <th>NodeJs</th>
+    <th>Express</th>
+    <th>WordPress</th>
+    <th>Mongoose</th>
   </tr>
   <tr>
     <td>
