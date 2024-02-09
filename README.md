@@ -8,10 +8,8 @@
 
 | HTML | CSS | JavaSript | SASS | Python | PHP | TypeScript |
 |---|---|---|---|---|---|---|
-| ![HTML](html-5_5968267.png) class="medida" | ![CSS](css-3_5968242.png) class="medida" | ![JavaSript](js_5968292.png) class="medida" | ![SASS](sass_5968358.png) class="medida" | ![Python](python_5968350.png) class="medida" | ![PHP](php_5968332.png) class="medida" | ![TypeScript](typescript_5968381.png) class="medida" |
+| <img src="html-5_5968267.png" alt="HTML" width="100" /> | ![CSS](css-3_5968242.png) class="medida" | ![JavaSript](js_5968292.png) class="medida" | ![SASS](sass_5968358.png) class="medida" | ![Python](python_5968350.png) class="medida" | ![PHP](php_5968332.png) class="medida" | ![TypeScript](typescript_5968381.png) class="medida" |
 
 | JAVA | REACT | MongoDB | Nodejs | Express | WordPress | Mongoose |
 |---|---|---|---|---|---|---|
 | ![JAVA](java_5968282.png) class="medida" | ![REACT](orbit_11378693.png) class="medida" | ![MongoDB](mongodb_logo_icon_170943.png) class="medida" | ![Nodejs](node.png) class="medida" | ![Express](express.png) class="medida" | ![Express](WP.png) class="medida" | ![Mongoose](mongoose.png) class="medida" |
-
-<img src="html-5_5968267.png" alt="HTML" width="100" />
