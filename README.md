@@ -8,4 +8,4 @@
 
 | HTML | CSS | JavaSript | SASS | Python | PHP | TypeScript | JAVA | REACT | MongoDB | Nodejs | Express | WordPress | Mongoose
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| ![HTML](html-5_5968267.png) | ![CSS](css-3_5968242.png) | ![JavaSript](js_5968292.png) | ![SASS](sass_5968358.png) | ![Python](python_5968350.png) | ![PHP](php_5968332.png) | ![TypeScript](typescript_5968381.png) | ![JAVA](java_5968282.png) | ![REACT](orbit_11378693.png) | ![MongoDB](mongodb_logo_icon_170943.png) | ![Nodejs](node.png) | ![Express](express.png) | ![Express](WP.png) | ![Express](mongoose.png)
+| ![HTML](html-5_5968267.png) | ![CSS](css-3_5968242.png) | ![JavaSript](js_5968292.png) | ![SASS](sass_5968358.png) | ![Python](python_5968350.png) | ![PHP](php_5968332.png) | ![TypeScript](typescript_5968381.png) | ![JAVA](java_5968282.png) | ![REACT](orbit_11378693.png) | ![MongoDB](mongodb_logo_icon_170943.png) | ![Nodejs](node.png) | ![Express](express.png) | ![Express](WP.png) | ![Mongoose](mongoose.png)
