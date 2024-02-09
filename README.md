@@ -40,7 +40,7 @@
       <img src="typescript_5968381.png" alt="TypeScript" width="100" />
     </td>
     <td>
-      <img src="mysql_5968313" alt="MySQL" width="100" />
+      <img src="mysql.png" alt="MySQL" width="100" />
     </td>
   </tr>
   <tr>
