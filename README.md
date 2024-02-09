@@ -7,11 +7,11 @@
 ## ¿Qué puedo hacer?
 
 ### Desarrollo de front-end: 
-`HTML`, `CSS`, `JavaScript`, `React`, `Vue.js`, `Bootstrap`, `Materialize`.
+`HTML`, `CSS`, `JavaScript`, `React`.
 ### Desarrollo de back-end: 
-`Node.js`, `Express`, `Django`, `Python`, `PHP`, `Laravel`.
+`Node.js`, `Express`, `Python`, `PHP`.
 ### Bases de datos: 
-`MySQL`, `PostgreSQL`, `MongoDB`.
+`MySQL`, `MongoDB`.
 ### Control de versiones: 
 `Git`, `GitHub`.
 ### Metodologías ágiles: 
