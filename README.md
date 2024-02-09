@@ -23,7 +23,6 @@
 - Tengo una buena capacidad de comunicación y trabajo en equipo.
 
 ## Mis estadísticas de GitHub
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioDV95&repo=Polar_Ecommerce&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
 [![SergioDV95's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioDV95&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
