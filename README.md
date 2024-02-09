@@ -3,11 +3,11 @@
 
 ## ¿Qué puedo hacer?
 
--### Desarrollo de front-end
--### Desarrollo de back-end
--### Bases de datos
--### Control de versiones
--### Metodologías ágiles
+- ### Desarrollo de front-end
+- ### Desarrollo de back-end
+- ### Bases de datos
+- ### Control de versiones
+- ### Metodologías ágiles
 
 ## ¿Qué me apasiona?
 
