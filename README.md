@@ -3,3 +3,5 @@
 [![SergioDV95's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioDV95&bg_color=0C0E0D&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDV95&langs_count=10&layout=compact&bg_color=0C0E0D&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SergioDV95&layout=compact)](https://github.com/SergioDV95/github-readme-stats)
