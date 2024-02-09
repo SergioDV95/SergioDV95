@@ -14,7 +14,6 @@
 - Aprender nuevas tecnologías y frameworks.
 - Encontrar soluciones creativas a problemas complejos.
 - Trabajar en equipo y colaborar con otros desarrolladores.
-- Contribuir a proyectos de código abierto.
 
 ## ¿Qué me diferencia?
 
