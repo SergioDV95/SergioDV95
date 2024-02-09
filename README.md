@@ -8,7 +8,7 @@
 
 | HTML | CSS | JavaSript | SASS | Python | PHP | TypeScript |
 |---|---|---|---|---|---|---|
-| ![HTML](html-5_5968267.png)](width=100) | ![CSS](css-3_5968242.png)](width=100) | ![JavaSript](js_5968292.png)](width=100) | ![SASS](sass_5968358.png)](width=100) | ![Python](python_5968350.png)](width=100) | ![PHP](php_5968332.png)](width=100) | ![TypeScript](typescript_5968381.png)](width=100) |
+| ![HTML](html-5_5968267.png)(width=100 "HTML") | ![CSS](css-3_5968242.png)](width=100) | ![JavaSript](js_5968292.png)](width=100) | ![SASS](sass_5968358.png)](width=100) | ![Python](python_5968350.png)](width=100) | ![PHP](php_5968332.png)](width=100) | ![TypeScript](typescript_5968381.png)](width=100) |
 
 | JAVA | REACT | MongoDB | Nodejs | Express | WordPress | Mongoose |
 |---|---|---|---|---|---|---|
