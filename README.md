@@ -8,4 +8,4 @@
 
 | HTML | CSS | JS | 
 |---|---|---|
-| ![HTML](https://www.freepik.com/icon/html-5_5968267#fromView=search&term=HTML&track=ais&page=1&position=0&uuid=b7876cb3-5936-483c-a574-48a14ffabcaa) | ![CSS](https://www.freepik.com/icon/css-3_5968242#fromView=resource_detail&position=19) | ![JS](https://www.freepik.com/icon/js_5968292#fromView=resource_detail&position=15) |
+| ![HTML](html-5_5968267) | ![CSS](css-3_5968242) | ![JS](js_5968292) |
