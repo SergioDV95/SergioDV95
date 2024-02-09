@@ -2,4 +2,4 @@
 
 [![SergioDV95's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioDV95&bg_color=0C0E0D&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDV95&langs_count=10&layout=compact&bg_color=0C0E0D&text_color=FFFFFF&exclude_repo=Polar_Ecommerce)](https://github.com/SergioDV95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDV95&langs_count=10&layout=compact&bg_color=0C0E0D&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
