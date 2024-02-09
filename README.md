@@ -8,8 +8,8 @@
 
 | HTML | CSS | JavaSript | SASS | Python | PHP | TypeScript |
 |---|---|---|---|---|---|---|
-| ![HTML](html-5_5968267.png) {width="100px"} | ![CSS](css-3_5968242.png) {width="100px"} | ![JavaSript](js_5968292.png) {width="100px"} | ![SASS](sass_5968358.png) {width="100px"} | ![Python](python_5968350.png) {width="100px"} | ![PHP](php_5968332.png) {width="100px"} | ![TypeScript](typescript_5968381.png) {width="100px"} |
+| ![HTML](html-5_5968267.png)](width=100) | ![CSS](css-3_5968242.png)](width=100) | ![JavaSript](js_5968292.png)](width=100) | ![SASS](sass_5968358.png)](width=100) | ![Python](python_5968350.png)](width=100) | ![PHP](php_5968332.png)](width=100) | ![TypeScript](typescript_5968381.png)](width=100) |
 
 | JAVA | REACT | MongoDB | Nodejs | Express | WordPress | Mongoose |
 |---|---|---|---|---|---|---|
-| ![JAVA](java_5968282.png) {width="100px"} | ![REACT](orbit_11378693.png) {width="100px"} | ![MongoDB](mongodb_logo_icon_170943.png) {width="100px"} | ![Nodejs](node.png) {width="100px"} | ![Express](express.png) {width="100px"} | ![Express](WP.png) {width="100px"} | ![Mongoose](mongoose.png) {width="100px"} |
+| ![JAVA](java_5968282.png)](width=100) | ![REACT](orbit_11378693.png)](width=100) | ![MongoDB](mongodb_logo_icon_170943.png)](width=100) | ![Nodejs](node.png)](width=100) | ![Express](express.png)](width=100) | ![Express](WP.png)](width=100) | ![Mongoose](mongoose.png)](width=100) |
