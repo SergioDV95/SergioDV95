@@ -6,6 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDV95&langs_count=10&layout=compact&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
-| HTML | CSS | JS | 
+| HTML | CSS | JavaSript | SASS | Python | PHP | TypeScript | JAVA | REACT | MongoDB
 |---|---|---|
-| ![HTML](html-5_5968267.png) | ![CSS](css-3_5968242.png) | ![JS](js_5968292.png) |
+| ![HTML](html-5_5968267.png) | ![CSS](css-3_5968242.png) | ![JavaSript](js_5968292.png) | ![SASS](sass_5968358.png) | ![Python](python_5968350.png) | ![PHP](php_5968332.png) | ![TypeScript](typescript_5968381.png) | ![JAVA](java_5968282.png) | ![REACT](orbit_11378693.png) | ![MongoDB](mongodb_logo_icon_170943.png)
