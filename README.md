@@ -15,6 +15,7 @@
     <th>Python</th>
     <th>PHP</th>
     <th>TypeScript</th>
+    <th>MySQL</th>
   </tr>
   <tr>
     <td>
@@ -38,6 +39,9 @@
     <td>
       <img src="typescript_5968381.png" alt="TypeScript" width="100" />
     </td>
+    <td>
+      <img src="mysql_5968313" alt="MySQL" width="100" />
+    </td>
   </tr>
   <tr>
     <th>JAVA</th>
@@ -47,6 +51,7 @@
     <th>Express</th>
     <th>WordPress</th>
     <th>Mongoose</th>
+    <th>Tailwind</th>
   </tr>
   <tr>
     <td>
@@ -69,6 +74,9 @@
     </td>
     <td>
       <img src="mongoose.png" alt="Mongoose" width="100" />
+    </td>
+    <td>
+      <img src="tailwind.png" alt="Tailwind" width="100" />
     </td>
   </tr>
 </table>
