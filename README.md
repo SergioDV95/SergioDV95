@@ -30,8 +30,27 @@
       <img src="typescript_5968381.png" alt="TypeScript" width="100" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="java_5968282.png" alt="JAVA" width="100" />
+    </td>
+    <td>
+      <img src="orbit_11378693.png" alt="React" width="100" />
+    </td>
+    <td>
+      <img src="mongodb_logo_icon_170943.png" alt="MongoDB" width="100" />
+    </td>
+    <td>
+      <img src="node.png" alt="Node" width="100" />
+    </td>
+    <td>
+      <img src="express.png" alt="Express" width="100" />
+    </td>
+    <td>
+      <img src="WP.png" alt="WordPress" width="100" />
+    </td>
+    <td>
+      <img src="mongoose.png" alt="Mongoose" width="100" />
+    </td>
+  </tr>
 </table>
-
-| JAVA | REACT | MongoDB | Nodejs | Express | WordPress | Mongoose |
-|---|---|---|---|---|---|---|
-| ![JAVA](java_5968282.png) class="medida" | ![REACT](orbit_11378693.png) class="medida" | ![MongoDB](mongodb_logo_icon_170943.png) class="medida" | ![Nodejs](node.png) class="medida" | ![Express](express.png) class="medida" | ![Express](WP.png) class="medida" | ![Mongoose](mongoose.png) class="medida" |
