@@ -12,4 +12,4 @@
 
 | JAVA | REACT | MongoDB | Nodejs | Express | WordPress | Mongoose |
 |---|---|---|---|---|---|---|
-| ![JAVA](java_5968282.png) | ![REACT](orbit_11378693.png)](width=100) | ![MongoDB](mongodb_logo_icon_170943.png)](width=100) | ![Nodejs](node.png)](width=100) | ![Express](express.png)](width=100) | ![Express](WP.png)](width=100) | ![Mongoose](mongoose.png)](width=100) |
+| ![JAVA](java_5968282.png)](width=100) | ![REACT](orbit_11378693.png)](width=100) | ![MongoDB](mongodb_logo_icon_170943.png)](width=100) | ![Nodejs](node.png)](width=100) | ![Express](express.png)](width=100) | ![Express](WP.png)](width=100) | ![Mongoose](mongoose.png)](width=100) |
