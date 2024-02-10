@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDV95&langs_count=10&layout=compact&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
-## Tecnologías y herramientas que uso
+## Tecnologías y herramientas que manejo
 
 <table>
   <tr>
