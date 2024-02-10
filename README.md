@@ -75,7 +75,7 @@
     <th>Express</th>
     <th>WordPress</th>
     <th>Mongoose</th>
-    <th>Tailwind</th>
+    <th>Tailwindcss</th>
   </tr>
   <tr>
     <td>
