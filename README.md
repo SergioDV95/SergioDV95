@@ -24,7 +24,7 @@
 
 ## Mi proyecto más destacado
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioDV95&repo=Polar_Ecommerce&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioDV95&repo=Polar_Ecommerce&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/Polar_Ecommerce)
 
 ## Mis estadísticas de GitHub
 
