@@ -22,11 +22,11 @@
 - Soy responsable y cumplo con mis plazos / I am responsible and I meet my deadlines
 - Tengo una buena capacidad de comunicación y trabajo en equipo / I have good communication and teamwork skills
 
-## Mi proyecto más destacado / My most outstanding project
+## Proyecto más destacado / Most outstanding project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioDV95&repo=Polar_Ecommerce&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/Polar_Ecommerce)
 
-## Mis estadísticas de GitHub / My GitHub stats
+## Estadísticas de GitHub / GitHub stats
 
 [![SergioDV95's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioDV95&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
