@@ -19,20 +19,20 @@
 
 - Tengo una gran capacidad de aprendizaje y adaptación / I have a great capacity for learning and adaptation
 - Soy proactivo y tengo iniciativa / I'm proactive and have initiative
-- Soy responsable y cumplo con mis plazos / I'm responsible and 
-- Tengo una buena capacidad de comunicación y trabajo en equipo.
+- Soy responsable y cumplo con mis plazos / I am responsible and I meet my deadlines
+- Tengo una buena capacidad de comunicación y trabajo en equipo / I have good communication and teamwork skills
 
-## Mi proyecto más destacado
+## Mi proyecto más destacado / My most outstanding project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergioDV95&repo=Polar_Ecommerce&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/Polar_Ecommerce)
 
-## Mis estadísticas de GitHub
+## Mis estadísticas de GitHub / My GitHub stats
 
 [![SergioDV95's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioDV95&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioDV95&langs_count=10&layout=compact&bg_color=90,0C0E0D,07022F&text_color=FFFFFF)](https://github.com/SergioDV95/github-readme-stats)
 
-## Tecnologías y herramientas que manejo
+## Tecnologías y herramientas que manejo / Technologies and tools that I use
 
 <table>
   <tr>
