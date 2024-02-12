@@ -5,7 +5,7 @@
 
 - Desarrollo de front-end / Front-end development
 - Desarrollo de back-end / Back-end development
-- Bases de datos / Data-Bases
+- Bases de datos / DataBases
 - Control de versiones / Versioning
 - Metodologías ágiles / Agile methodologies
 
