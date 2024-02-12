@@ -15,7 +15,7 @@
 - Encontrar soluciones creativas a problemas complejos / Find creative solutions to complex problems
 - Trabajar en equipo y colaborar con otros desarrolladores / Teamwork and collaboration with other developers
 
-## ¿Qué me diferencia? / What makes me different?
+## ¿Qué me diferencia? / What sets me apart?
 
 - Tengo una gran capacidad de aprendizaje y adaptación / I have a great capacity for learning and adaptation
 - Soy proactivo y tengo iniciativa / I'm proactive and have initiative
