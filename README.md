@@ -3,8 +3,8 @@
 
 ## ¿Qué puedo hacer? | What can I do?
 
-- Desarrollo de front-end | Front-end development
-- Desarrollo de back-end | Back-end development
+- Desarrollo de Front-end | Front-end development
+- Desarrollo de Back-end | Back-end development
 - Bases de datos | DataBases
 - Control de versiones | Versioning
 - Metodologías ágiles | Agile methodologies
