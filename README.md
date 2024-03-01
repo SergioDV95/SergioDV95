@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1600&color=4280F7&random=false&width=680&height=60&lines=%3Cp%3EHola+soy+Sergio+Daza%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%3C%2Fp%3E;%3Cp%3EProgramador+Web+Full-Stack%F0%9F%92%BB%3C%2Fp%3E;%3Cp%3EConozco+m%C3%BAltiples+lenguajes+de+programaci%C3%B3n%F0%9F%98%8E%3C%2Fp%3E;%3Cp%3EUtilizo+varios+frameworks+y+librer%C3%ADas%F0%9F%93%96%3C%2Fp%3E;%3Cp%3EConstruyo+sitios+web+desde+simples+a+complejos%F0%9F%94%A7%3C%2Fp%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1600&color=3D90F7&random=false&width=740&height=60&lines=%3Cp%3EHello%2C+I'm+Sergio+Daza%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%3C%2Fp%3E;%3Cp%3EFull-stack+Web+Developer%F0%9F%96%A5%EF%B8%8F%3C%2Fp%3E;%3Cp%3EI+know+several+IT+languages+and+technologies%F0%9F%98%8E%3C%2Fp%3E;%3Cp%3EI+use+a+variety+of+frameworks+and+libraries%F0%9F%93%9A%3C%2Fp%3E;%3Cp%3EI+can+build+any+website+from+simple+to+complex%F0%9F%94%A7%3C%2Fp%3E)](https://git.io/typing-svg)
 
 
 ## ¿Qué puedo hacer? | What can I do?
